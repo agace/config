@@ -1,4 +1,4 @@
-export PS1='barbecue@onbaby:\[\e[01;31m\]\w\[\e[0m\]\$ '
+export PS1='\u@\h:\[\e[01;33m\]\w\[\e[0m\]\$ '
 
 export EDITOR='vi'
 
